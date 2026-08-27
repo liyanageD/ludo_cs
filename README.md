@@ -58,4 +58,4 @@ See `Ludo-CS-Report.pdf` (compiled from the accompanying LaTeX source) for detai
 
 ## Notes
 
-- This was my first large-scale C assignment — feedback and suggestions are welcome via issues/PRs.
+- This was my first large-scale C gaming project — feedback and suggestions are welcome via issues/PRs.
