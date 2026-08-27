@@ -2,7 +2,7 @@
 
 **Course:** SCS 1301 — Data Structures and Program Design using C
 **Institution:** University of Colombo School of Computing (UCSC)
-**Author:** Damitha Liyanage (23001011)
+**Author:** Damitha Liyanage 
 
 A command-line simulation of *LUDO-CS*, an extended variant of the classic board game LUDO, implemented in C. The simulation runs with no user interaction — once compiled and executed, it plays out the game automatically according to fixed player behaviours and prints a full log of game events to the console.
 
